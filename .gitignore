@@ -1,0 +1,5 @@
+.level-session-store
+config/*.yml
+!config/default.yml
+node_modules
+package-lock.json

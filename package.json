@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "DEBUG=appkit node src/Main.js",
+    "start-debug": "DEBUG=appkit* node src/Main.js"
+  },
+  "dependencies": {
+    "express-appkit": "github:fhda-ets/express-appkit#v20.2.0"
+  }
+}
